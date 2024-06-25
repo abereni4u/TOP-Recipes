@@ -1,1 +1,4 @@
-
+Entire BG = 6E635B (grey brown)
+Headings = ED964E (orange)
+    h1 = ED964E
+    h2 = 987C65 lighter

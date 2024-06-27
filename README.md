@@ -5,4 +5,4 @@ and it'll take you to a page with more information on that recipe.
 
 Got better at using Git, terminal commands, and structure for HTML files completing this project.
 
-Adding CSS styling soon
+Adding CSS styling shortly

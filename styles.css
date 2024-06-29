@@ -4,11 +4,13 @@ body{
 }
 
 img{
+    background-color: #987C65;
     display: block;
     margin: 0px auto;
 }
 
 .Heading{
+    background-color: #4d4a48;
     text-align: center;
     font-family: monospace, cursive, fantasy;
     color: #ED964E;

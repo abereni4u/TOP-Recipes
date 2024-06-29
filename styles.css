@@ -10,7 +10,11 @@ img{
 }
 
 .Heading{
+    box-sizing: border-box;
+    margin: 30px 500px;
     background-color: #4d4a48;
+    padding: 20px;
+    border-radius: 20px;
     text-align: center;
     font-family: monospace, cursive, fantasy;
     color: #ED964E;

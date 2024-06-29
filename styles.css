@@ -3,7 +3,13 @@ body{
     background-color: #6E635B
 }
 
+img{
+    display: block;
+    margin: 0px auto;
+}
+
 .Heading{
+    text-align: center;
     font-family: monospace, cursive, fantasy;
     color: #ED964E;
 }

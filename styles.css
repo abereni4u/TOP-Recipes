@@ -12,8 +12,12 @@ a:visited{
     color: #3ba8db;
 }
 
-
-
+.RecipeCon{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    align-content: center;
+}
 
 img{
     background-color: #987C65;

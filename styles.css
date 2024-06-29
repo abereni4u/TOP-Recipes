@@ -3,10 +3,22 @@ body{
     background-color: #6E635B
 }
 
+
+a:link{
+    color: #ED964E;
+}
+
+a:visited{
+    color: #3ba8db;
+}
+
+
+
+
 img{
     background-color: #987C65;
     display: block;
-    margin: 0px auto;
+    margin: 30px auto;
 }
 
 .Heading{

@@ -10,17 +10,22 @@ img{
 }
 
 .Heading{
-    box-sizing: border-box;
-    margin: 30px 500px;
-    background-color: #4d4a48;
-    padding: 20px;
-    border-radius: 20px;
+    background-color: #403B37;
     text-align: center;
     font-family: monospace, cursive, fantasy;
     color: #ED964E;
+    box-sizing: border-box;
+    width: 500px;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 30px;   
 }
 
 p{
+    box-sizing: border-box;
+    font-size: 15px;
+    width: 400px;
+    margin: auto;
     color: white;
     font-family:monospace, cursive, fantasy
 }
